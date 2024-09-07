@@ -1,0 +1,14 @@
+name: VR_Spigot_Recorder
+version: '1.0-SNAPSHOT'
+main: agmas.org.vr_spigot_recorder.VR_Spigot_Recorder
+api-version: '1.20'
+commands:
+  rgn:
+    description: Your description
+    usage: /<command>
+  record:
+    description: Your description
+    usage: /<command>
+  scale:
+    description: Sets your hand's scales.
+    usage: /<command>
